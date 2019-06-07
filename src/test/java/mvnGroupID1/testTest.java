@@ -16,5 +16,7 @@ public class testTest {
 	@Test
 	public void testcaseaddedbyY2git1() {
 		System.out.println("testcaseaddedbyY2git1");
+		System.out.println("testcaseaddedbyY2git1");
+		
 	}
 }
