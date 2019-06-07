@@ -11,5 +11,10 @@ public class testTest {
 	@Test
 	public void testcase2() {
 		System.out.println("2222222222222222222222222222222222");
+		System.out.println("testcaseaddedbyY2git1");
+	}
+	@Test
+	public void testcaseaddedbyY2git1() {
+		System.out.println("testcaseaddedbyY2git1");
 	}
 }
